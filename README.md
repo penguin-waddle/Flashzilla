@@ -1,7 +1,16 @@
 # Flashzilla
 
 ## Overview
-Flashzilla is an interactive flashcard application designed to help users learn various topics through a simple and engaging interface. 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/Flashzilla/assets/123434744/da986b86-ec01-406c-b006-b1234c1be2b9" alt="Flashzilla App Demo" width="600" />
+    </td>
+    <td>
+      Flashzilla is an interactive flashcard application designed to help users learn various topics through a simple and engaging interface. 
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Flashcard Learning**: Users interact with flashcards, each showing a prompt and an answer, to test and reinforce their knowledge.
@@ -38,3 +47,5 @@ Flashzilla is an interactive flashcard application designed to help users learn 
 *Flashzilla is part of the "100 Days of SwiftUI" course, showcasing advanced SwiftUI techniques and user interface design.*
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)

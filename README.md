@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/penguin-waddle/Flashzilla/assets/123434744/da986b86-ec01-406c-b006-b1234c1be2b9" alt="Flashzilla App Demo" width="600" />
+      <img src="https://github.com/penguin-waddle/Flashzilla/assets/123434744/da986b86-ec01-406c-b006-b1234c1be2b9" alt="Flashzilla App Demo" width="2100" />
     </td>
     <td>
       Flashzilla is an interactive flashcard application designed to help users learn various topics through a simple and engaging interface. 
